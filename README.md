@@ -1,98 +1,48 @@
 <p align="center">
-  <img src="assets/expo7-header.svg" alt="EXPO7 // Independent Systems Lab — Build, Deploy, Observe, Iterate" width="100%">
+  <img src="assets/expo7-hero.svg" alt="EXPO7 Independent Systems Lab: Build, Deploy, Observe, Iterate" width="100%">
 </p>
 
-# EXPO7
+# EXPO7 // INDEPENDENT SYSTEMS LAB
 
-## INDEPENDENT SYSTEMS LAB
+One operator. Multiple agents. Live systems.
 
-**BUILD → DEPLOY → OBSERVE → ITERATE**
+Systems are built fast, deployed early, and judged by what happens in reality.
+The work moves across markets, automation, and useful data systems.
 
-One operator working with specialized AI agents, automation, and production
-software to turn useful experiments into durable systems. The work spans
-markets, operational intelligence, and internet-business research.
+## ACTIVE SYSTEMS
 
----
+<p align="center">
+  <img src="assets/active-systems.svg" alt="Four EXPO7 systems: Quantelle, AI Options Deathmatch, Arizona Project Radar, and private internal Vault tooling" width="100%">
+</p>
 
-## Active systems
+**Inspect the public systems**
 
-### [01 / QUANTELLE](https://github.com/expo7/alpaca)
+- [01 / Quantelle](https://github.com/expo7/alpaca) — [public site](https://quantelle.io/)
+- [02 / AI Options Deathmatch](https://github.com/expo7/AI-OPTIONS-DEATHMATCH)
+- [03 / Arizona Project Radar](https://github.com/expo7/Arizona-Project-Radar-)
 
-Trading research and paper-execution system for market analysis, options ideas,
-published trade records, and portfolio tracking. Django and React/Vite run with
-PostgreSQL, Redis, Celery, and Docker; paper results are never presented as
-real-money performance.
+## OPERATING LOOP
 
-### [02 / AI OPTIONS DEATHMATCH](https://github.com/expo7/AI-OPTIONS-DEATHMATCH)
+<p align="center">
+  <img src="assets/operating-loop.svg" alt="Operating loop: Idea, Specify, Delegate, Build, Test, Deploy, Observe, Iterate Kill or Scale" width="100%">
+</p>
 
-A public, supervised paper-trading competition between five AI-driven options
-strategies. The system uses an append-only SQLite ledger, explicit order
-boundaries, reconciliation gates, and a public results surface designed to show
-losses as well as wins.
+Production is not the finish line. It is how the lab gathers evidence for the
+next decision.
 
-### [03 / ARIZONA PROJECT RADAR](https://github.com/expo7/Arizona-Project-Radar-)
+## HUMAN + AGENTS + SYSTEMS
 
-Local-first desk software for reviewing Arizona construction-permit leads from
-public datasets. It imports, searches, and preserves review state while keeping
-the distinction clear between raw public records and verified opportunities.
+<p align="center">
+  <img src="assets/operating-model.svg" alt="Human chooses problems and judges results; agents research, implement, test, inspect, and automate; systems run, generate evidence, expose failures, and guide the next iteration" width="100%">
+</p>
 
-### 04 / VAULT
+The human owns the problem and the release boundary. Agents extend the working
+surface. Systems make the result observable.
 
-Private operator tooling: a local credential-vault CLI for AI-assisted
-workflows. AES-256-GCM encryption, scrypt-derived keys, hidden terminal input,
-and metadata-only discovery keep retrieval commands shareable without exposing
-the secret itself.
+## OPERATING DOCTRINE
 
----
+<p align="center">
+  <img src="assets/operating-doctrine.svg" alt="EXPO7 operating doctrine: Ship Early, Automate Repeated Friction, Delegate Intelligently, Measure Reality, Keep What Works" width="100%">
+</p>
 
-## Operating model
-
-```text
-IDEA
-  ↓
-SPECIFICATION
-  ↓
-AGENT DELEGATION
-  ↓
-IMPLEMENTATION
-  ↓
-TEST
-  ↓
-DEPLOY
-  ↓
-REAL-WORLD FEEDBACK
-  ↓
-ITERATE / KILL / SCALE
-```
-
-Human judgment sets the problem, constraints, and release boundary. Specialized
-agents accelerate research, implementation, testing, and operations. Production
-behavior decides what receives more attention.
-
-## Working stack
-
-The systems use a practical mix rather than a badge wall:
-
-- **Agent-assisted development** for bounded research, implementation, review, and test work.
-- **GitHub** for source control, CI, release workflows, and public system records.
-- **Python, Django, React/Vite, SQLite, PostgreSQL, Redis, and Celery** where the problem warrants them.
-- **Linux, Docker, Caddy, and small production infrastructure** for repeatable operation and release.
-- **Public datasets, automation, and explicit audit trails** where a system must be checked against reality.
-
-## Operating doctrine
-
-| Principle | Practice |
-| --- | --- |
-| **Ship early** | Production creates information that planning cannot. |
-| **Automate repeated friction** | If a task repeats, build the system that removes it. |
-| **Delegate intelligently** | Use the least expensive capable agent or tool for the job. |
-| **Measure reality** | Prefer observed behavior to elaborate prediction. |
-| **Keep what works** | Experiments earn additional resources through results. |
-
-## Current experiments
-
-- [Quantelle](https://quantelle.io/) — research and paper execution in public.
-- [AI Options Deathmatch](https://github.com/expo7/AI-OPTIONS-DEATHMATCH) — transparent, supervised strategy competition.
-- [Arizona Project Radar](https://github.com/expo7/Arizona-Project-Radar-) — public-data lead review workflow.
-
-<sub>EXPO7 is an independent systems lab. Paper-trading and research outputs are experiments, not investment advice or real-money performance claims.</sub>
+<sub>Research and paper-trading work is experimental. It is not investment advice or a claim of real-money performance.</sub>

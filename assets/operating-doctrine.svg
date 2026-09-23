@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="485" viewBox="0 0 1200 485" role="img" aria-labelledby="title desc">
+  <title id="title">EXPO7 operating doctrine</title>
+  <desc id="desc">Five principles: ship early, automate repeated friction, delegate intelligently, measure reality, and keep what works.</desc>
+  <rect width="1200" height="485" fill="#15191d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="35" fill="#95a7b2" font-size="13" letter-spacing="2.5">OPERATING DOCTRINE / RESOURCE ALLOCATION RULES</text>
+    <g fill="#1c2329" stroke="#53636d" stroke-width="1">
+      <rect x="40" y="70" width="540" height="112"/><rect x="620" y="70" width="540" height="112"/>
+      <rect x="40" y="205" width="540" height="112"/><rect x="620" y="205" width="540" height="112"/>
+      <rect x="40" y="340" width="1120" height="108"/>
+    </g>
+    <g fill="#91a6b0" font-size="14" letter-spacing="2">
+      <text x="64" y="100">01</text><text x="644" y="100">02</text><text x="64" y="235">03</text><text x="644" y="235">04</text><text x="64" y="370">05</text>
+    </g>
+    <g fill="#edf2f4" font-size="20" font-weight="700" letter-spacing="1">
+      <text x="64" y="132">SHIP EARLY</text><text x="644" y="132">AUTOMATE REPEATED FRICTION</text>
+      <text x="64" y="267">DELEGATE INTELLIGENTLY</text><text x="644" y="267">MEASURE REALITY</text><text x="64" y="402">KEEP WHAT WORKS</text>
+    </g>
+    <g fill="#bbc8ce" font-size="15">
+      <text x="64" y="160">Production creates information.</text><text x="644" y="160">Repeated work is a system-design signal.</text>
+      <text x="64" y="295">Use the least expensive capable tool.</text><text x="644" y="295">Observed behavior beats elaborate prediction.</text><text x="64" y="430">Results earn more time and resources.</text>
+    </g>
+  </g>
+</svg>

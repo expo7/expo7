@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-labelledby="title desc">
+  <title id="title">Human, agents, and systems operating model</title>
+  <desc id="desc">Human judgment directs agents, agents build and inspect, and systems run to generate evidence and expose failures.</desc>
+  <rect width="1200" height="335" fill="#15191d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="35" fill="#95a7b2" font-size="13" letter-spacing="2.5">WORKING MODEL / RESPONSIBILITY BOUNDARIES</text>
+    <g fill="#1c2329" stroke="#53636d" stroke-width="1">
+      <rect x="40" y="70" width="338" height="220"/><rect x="431" y="70" width="338" height="220"/><rect x="822" y="70" width="338" height="220"/>
+    </g>
+    <g fill="#c9d5db">
+      <circle cx="70" cy="100" r="5"/><circle cx="461" cy="100" r="5"/><circle cx="852" cy="100" r="5"/>
+    </g>
+    <g fill="#eef3f5" font-size="24" font-weight="700" letter-spacing="2">
+      <text x="88" y="108">HUMAN</text><text x="479" y="108">AGENTS</text><text x="870" y="108">SYSTEMS</text>
+    </g>
+    <g fill="#bdcad0" font-size="16">
+      <text x="70" y="153">choose problems</text><text x="70" y="184">define constraints</text><text x="70" y="215">allocate resources</text><text x="70" y="246">judge results</text>
+      <text x="461" y="153">research</text><text x="461" y="184">implement</text><text x="461" y="215">test + inspect</text><text x="461" y="246">automate</text>
+      <text x="852" y="153">run</text><text x="852" y="184">generate evidence</text><text x="852" y="215">expose failures</text><text x="852" y="246">set next iteration</text>
+    </g>
+    <g fill="#8195a0" font-size="14" letter-spacing="1.2">
+      <text x="70" y="275">JUDGMENT + ACCOUNTABILITY</text><text x="461" y="275">SPECIALIZED EXECUTION</text><text x="852" y="275">REAL-WORLD FEEDBACK</text>
+    </g>
+    <path d="M382 180H424M773 180H815" stroke="#91a7b2" stroke-width="1.5"/>
+    <path d="M418 174L424 180L418 186M809 174L815 180L809 186" fill="none" stroke="#91a7b2" stroke-width="1.5"/>
+  </g>
+</svg>

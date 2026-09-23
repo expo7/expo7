@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">EXPO7 Independent Systems Lab</title>
+  <desc id="desc">A graphite systems-console header reading EXPO7, Independent Systems Lab, Build Deploy Observe Iterate, and One Operator Multiple Agents Live Systems.</desc>
+  <rect width="1200" height="360" fill="#15191d"/>
+  <g stroke="#2e373f" stroke-width="1">
+    <path d="M0 45H1200M0 115H1200M0 185H1200M0 255H1200M0 325H1200"/>
+    <path d="M70 0V360M190 0V360M310 0V360M430 0V360M550 0V360M670 0V360M790 0V360M910 0V360M1030 0V360M1150 0V360"/>
+  </g>
+  <g fill="none" stroke="#8ba0ae" stroke-width="1.5">
+    <path d="M70 79H302L334 111H526"/>
+    <path d="M674 248H870L902 216H1130"/>
+    <path d="M70 287H188M1012 79H1130"/>
+  </g>
+  <g fill="#c6d3db">
+    <circle cx="70" cy="79" r="5"/>
+    <circle cx="526" cy="111" r="4"/>
+    <circle cx="674" cy="248" r="4"/>
+    <circle cx="1130" cy="216" r="5"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="70" y="47" fill="#8293a0" font-size="13" letter-spacing="2.2">EXPO7 / SYSTEMS CONSOLE / 07</text>
+    <text x="68" y="190" fill="#f2f5f7" font-size="80" font-weight="700" letter-spacing="7">EXPO7</text>
+    <text x="74" y="225" fill="#b8c5cc" font-size="18" letter-spacing="4">INDEPENDENT SYSTEMS LAB</text>
+    <text x="74" y="299" fill="#edf2f4" font-size="17" letter-spacing="1.5">BUILD / DEPLOY / OBSERVE / ITERATE</text>
+    <text x="784" y="299" fill="#9eafb9" font-size="13" letter-spacing="2">ONE OPERATOR</text>
+    <text x="784" y="321" fill="#9eafb9" font-size="13" letter-spacing="2">MULTIPLE AGENTS</text>
+    <text x="784" y="343" fill="#9eafb9" font-size="13" letter-spacing="2">LIVE SYSTEMS</text>
+    <text x="958" y="47" fill="#8293a0" font-size="12" letter-spacing="1.5">STATUS / ACTIVE</text>
+  </g>
+</svg>
