@@ -35,7 +35,7 @@
     <text x="640" y="391" fill="#f2f5f7" font-size="31" font-weight="700" letter-spacing="1.5">VAULT</text>
     <text x="640" y="425" fill="#c2cdd3" font-size="17">Credential tooling for agent workflows</text>
     <text x="640" y="459" fill="#8fa2ad" font-size="13" letter-spacing="1">PYTHON / AES-GCM / SCRYPT / CLI</text>
-    <rect x="640" y="486" width="166" height="27" fill="none" stroke="#71818a"/>
-    <text x="651" y="505" fill="#aab8bf" font-size="12" letter-spacing="1.4">PRIVATE / INTERNAL</text>
+    <rect x="640" y="486" width="160" height="27" fill="none" stroke="#90a5b1"/>
+    <text x="651" y="505" fill="#c5d1d7" font-size="12" letter-spacing="1.4">PUBLIC / TOOLING</text>
   </g>
 </svg>

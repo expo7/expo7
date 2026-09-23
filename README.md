@@ -12,7 +12,7 @@ The work moves across markets, automation, and useful data systems.
 ## ACTIVE SYSTEMS
 
 <p align="center">
-  <img src="assets/active-systems.svg" alt="Four EXPO7 systems: Quantelle, AI Options Deathmatch, Arizona Project Radar, and private internal Vault tooling" width="100%">
+  <img src="assets/active-systems.svg" alt="Four EXPO7 systems: Quantelle, AI Options Deathmatch, Arizona Project Radar, and public Vault tooling" width="100%">
 </p>
 
 **Inspect the public systems**
